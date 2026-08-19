@@ -44,6 +44,9 @@ const urls = pages.map((p) => {
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'),
   `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n${urls}\n</urlset>\n`, 'utf8');
 
+/* .nojekyll — stops GitHub Pages from running Jekyll over the output */
+fs.writeFileSync(path.join(OUT, '.nojekyll'), '', 'utf8');
+
 /* robots.txt */
 fs.writeFileSync(path.join(OUT, 'robots.txt'),
   `User-agent: *\nAllow: /\n\nSitemap: ${site.url}/sitemap.xml\n`, 'utf8');
@@ -57,7 +60,7 @@ const notFound = layout({
     <span class="eyebrow" style="justify-content:center">Error 404</span>
     <h1 class="mt-2" style="font-size:var(--step-5)">404</h1>
     <p class="mt-2" style="color:rgba(255,255,255,.82)"><span data-id>Halaman yang Anda cari tidak ditemukan.</span><span data-en>The page you are looking for was not found.</span></p>
-    <div class="flex-btns flex-btns--center mt-4"><a class="btn btn--gold" href="/"><span data-id>Kembali ke Beranda</span><span data-en>Back to Home</span></a></div>
+    <div class="flex-btns flex-btns--center mt-4"><a class="btn btn--gold" href="${site.url}/"><span data-id>Kembali ke Beranda</span><span data-en>Back to Home</span></a></div>
   </div>
 </section>`
 });
