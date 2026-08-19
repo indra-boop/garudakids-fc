@@ -1,0 +1,53 @@
+{
+  "_note": "SEMUA NILAI DI FILE INI = ASUMSI/PLACEHOLDER. Ganti dengan DATA FINAL sebelum go-live.",
+  "name": "GarudaKids FC",
+  "tagline": { "id": "Pembinaan Sepak Bola Usia Muda", "en": "Youth Football Development" },
+  "url": "https://garudakidsfc.com",
+  "defaultLang": "id",
+  "founded": 2019,
+  "meta": {
+    "title": "GarudaKids FC — Akademi Sepak Bola Usia Muda Sidoarjo",
+    "description": {
+      "id": "Akademi sepak bola usia muda di Sidoarjo, Jawa Timur. GarudaKids FC membina pemain muda melalui pelatihan profesional, program terstruktur, disiplin, kerja sama tim, dan pengalaman kompetitif.",
+      "en": "A youth football academy in Sidoarjo, East Java. GarudaKids FC develops young players through professional coaching, structured training, teamwork, discipline, and competitive experience."
+    },
+    "keywords": "akademi sepak bola Sidoarjo, SSB Sidoarjo, sekolah sepak bola Sidoarjo, sepak bola anak Sidoarjo, football academy Sidoarjo, youth football East Java, GarudaKids FC"
+  },
+  "contact": {
+    "venueName": "Lapangan Jogo Reso Kedungpeluk",
+    "address": "Ds. Kedungpeluk, Kec. Candi, Kabupaten Sidoarjo, Jawa Timur",
+    "city": "Sidoarjo",
+    "region": "Jawa Timur",
+    "postalCode": "",
+    "lat": -7.483326,
+    "lng": 112.7510873,
+    "mapsQuery": "Lapangan Jogo Reso Kedungpeluk, Candi, Sidoarjo",
+    "mapsEmbed": "https://www.google.com/maps?q=-7.483326,112.7510873&z=16&hl=id&output=embed",
+    "mapsLink": "https://maps.app.goo.gl/J7F6ENtKEDiKfSzd9",
+    "whatsapp": "6288234292585",
+    "whatsappDisplay": "+62 882-3429-2585",
+    "phone": "+62 882-3429-2585",
+    "email": "info@garudakidsfc.com",
+    "officeHours": { "id": "Senin–Sabtu, 09.00–18.00 WIB", "en": "Mon–Sat, 09:00–18:00 (GMT+7)" }
+  },
+  "social": {
+    "instagram": "https://instagram.com/garudakidsfc",
+    "tiktok": "https://tiktok.com/@garudakidsfc",
+    "youtube": "https://youtube.com/@garudakidsfc",
+    "facebook": ""
+  },
+  "stats": [
+    { "value": 180, "suffix": "+", "label": { "id": "Pemain Aktif", "en": "Active Players" } },
+    { "value": 12, "suffix": "", "label": { "id": "Pelatih Bersertifikat", "en": "Certified Coaches" } },
+    { "value": 640, "suffix": "+", "label": { "id": "Sesi Latihan / Tahun", "en": "Training Sessions / Year" } },
+    { "value": 45, "suffix": "+", "label": { "id": "Pertandingan & Turnamen", "en": "Matches & Tournaments" } }
+  ],
+  "values": [
+    { "icon": "shield", "title": { "id": "Disiplin", "en": "Discipline" }, "text": { "id": "Tepat waktu, konsisten, dan bertanggung jawab pada proses latihan.", "en": "Punctual, consistent, and accountable throughout the training process." } },
+    { "icon": "users", "title": { "id": "Kerja Sama Tim", "en": "Teamwork" }, "text": { "id": "Bermain untuk tim, saling mendukung, dan memahami peran masing-masing.", "en": "Play for the team, support each other, understand every role." } },
+    { "icon": "spark", "title": { "id": "Kepercayaan Diri", "en": "Confidence" }, "text": { "id": "Berani mengambil keputusan di lapangan maupun di luar lapangan.", "en": "Brave enough to make decisions on and off the pitch." } },
+    { "icon": "handshake", "title": { "id": "Sportivitas", "en": "Sportsmanship" }, "text": { "id": "Menghormati lawan, wasit, pelatih, dan aturan permainan.", "en": "Respect for opponents, referees, coaches, and the laws of the game." } },
+    { "icon": "pulse", "title": { "id": "Perkembangan Fisik", "en": "Physical Development" }, "text": { "id": "Program fisik sesuai usia — koordinasi, kelincahan, dan daya tahan.", "en": "Age-appropriate physical work — coordination, agility, and endurance." } },
+    { "icon": "trophy", "title": { "id": "Mentalitas Kompetitif", "en": "Competitive Mentality" }, "text": { "id": "Terbiasa menghadapi tekanan pertandingan dengan kepala dingin.", "en": "Used to handling match pressure with a clear head." } }
+  ]
+}

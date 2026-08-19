@@ -1,0 +1,16 @@
+{
+  "upcoming": [
+    { "date": "2026-08-23", "kickoff": "08:00", "opponent": "Deltras Junior", "opponentShort": "DLJ", "competition": { "id": "Liga Akademi Sidoarjo U-15", "en": "Sidoarjo Academy League U-15" }, "ageGroup": "U-15", "venue": "Lapangan Jogo Reso Kedungpeluk", "home": true },
+    { "date": "2026-08-30", "kickoff": "09:30", "opponent": "Sidoarjo Putra FC", "opponentShort": "SPF", "competition": { "id": "Liga Akademi Sidoarjo U-13", "en": "Sidoarjo Academy League U-13" }, "ageGroup": "U-13", "venue": "Lapangan Sidoarjo Putra FC", "home": false },
+    { "date": "2026-09-06", "kickoff": "08:00", "opponent": "Waru Soccer School", "opponentShort": "WSS", "competition": { "id": "Friendly Match", "en": "Friendly Match" }, "ageGroup": "U-11", "venue": "Lapangan Jogo Reso Kedungpeluk", "home": true },
+    { "date": "2026-09-14", "kickoff": "15:00", "opponent": "Krian Football Academy", "opponentShort": "KFA", "competition": { "id": "Liga Akademi Sidoarjo U-15", "en": "Sidoarjo Academy League U-15" }, "ageGroup": "U-15", "venue": "Stadion Gelora Delta Sidoarjo", "home": false }
+  ],
+  "results": [
+    { "date": "2026-08-09", "opponent": "Candi Youth FC", "opponentShort": "CYF", "competition": { "id": "Liga Akademi Sidoarjo U-15", "en": "Sidoarjo Academy League U-15" }, "ageGroup": "U-15", "venue": "Lapangan Jogo Reso Kedungpeluk", "home": true, "scoreUs": 3, "scoreThem": 1, "scorers": "Surya M. (2), Rayhan G." },
+    { "date": "2026-08-02", "opponent": "Porong Junior", "opponentShort": "PRJ", "competition": { "id": "Liga Akademi Sidoarjo U-13", "en": "Sidoarjo Academy League U-13" }, "ageGroup": "U-13", "venue": "Lapangan Porong", "home": false, "scoreUs": 2, "scoreThem": 2, "scorers": "Farrel M., Aditya N." },
+    { "date": "2026-07-26", "opponent": "Gedangan Soccer Club", "opponentShort": "GSC", "competition": { "id": "Friendly Match", "en": "Friendly Match" }, "ageGroup": "U-11", "venue": "Lapangan Jogo Reso Kedungpeluk", "home": true, "scoreUs": 4, "scoreThem": 0, "scorers": "Zaki F. (2), Bintang S., Elang P." },
+    { "date": "2026-07-19", "opponent": "Taman Football Academy", "opponentShort": "TFA", "competition": { "id": "Liga Akademi Sidoarjo U-15", "en": "Sidoarjo Academy League U-15" }, "ageGroup": "U-15", "venue": "Lapangan Taman", "home": false, "scoreUs": 1, "scoreThem": 2, "scorers": "Dhika N." },
+    { "date": "2026-07-12", "opponent": "Buduran Youth", "opponentShort": "BDY", "competition": { "id": "Liga Akademi Sidoarjo U-13", "en": "Sidoarjo Academy League U-13" }, "ageGroup": "U-13", "venue": "Lapangan Jogo Reso Kedungpeluk", "home": true, "scoreUs": 5, "scoreThem": 1, "scorers": "Farrel M. (3), Bagas C., Sandi P." },
+    { "date": "2026-07-05", "opponent": "Deltras Junior", "opponentShort": "DLJ", "competition": { "id": "Turnamen Garuda Cup U-11", "en": "Garuda Cup U-11" }, "ageGroup": "U-11", "venue": "Lapangan Jenggolo Sidoarjo", "home": false, "scoreUs": 2, "scoreThem": 1, "scorers": "Zaki F., Dafa L." }
+  ]
+}

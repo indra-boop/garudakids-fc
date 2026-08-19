@@ -1,0 +1,80 @@
+[
+  {
+    "id": "coach-arya",
+    "name": "Arya Pratama",
+    "role": { "id": "Head Coach / Direktur Teknik", "en": "Head Coach / Technical Director" },
+    "certification": "AFC B License",
+    "specialization": { "id": "Taktik & Periodisasi", "en": "Tactics & Periodisation" },
+    "experience": 12,
+    "bio": {
+      "id": "Memimpin kurikulum teknik akademi dan menangani tim kompetitif. Berpengalaman menangani kelompok usia muda di kompetisi tingkat provinsi.",
+      "en": "Leads the academy's technical curriculum and handles the competitive squads. Experienced with youth age groups at provincial level competition."
+    },
+    "photo": ""
+  },
+  {
+    "id": "coach-bayu",
+    "name": "Bayu Setiawan",
+    "role": { "id": "Pelatih Development", "en": "Development Coach" },
+    "certification": "AFC C License",
+    "specialization": { "id": "Teknik Individu & Game Intelligence", "en": "Individual Technique & Game Intelligence" },
+    "experience": 8,
+    "bio": {
+      "id": "Menangani kelompok U-11 dan U-13. Fokus pada pengembangan teknik individu dan pemahaman permainan.",
+      "en": "Handles the U-11 and U-13 groups. Focused on individual technique and game understanding."
+    },
+    "photo": ""
+  },
+  {
+    "id": "coach-rangga",
+    "name": "Rangga Wijaya",
+    "role": { "id": "Pelatih Grassroots", "en": "Grassroots Coach" },
+    "certification": { "id": "Lisensi Grassroots PSSI", "en": "PSSI Grassroots License" },
+    "specialization": { "id": "Fun Football & Ball Mastery", "en": "Fun Football & Ball Mastery" },
+    "experience": 6,
+    "bio": {
+      "id": "Spesialis usia dini. Merancang sesi berbasis permainan agar anak belajar sambil menikmati prosesnya.",
+      "en": "Early-age specialist. Designs game-based sessions so children learn while enjoying the process."
+    },
+    "photo": ""
+  },
+  {
+    "id": "coach-dimas",
+    "name": "Dimas Nugroho",
+    "role": { "id": "Pelatih Kiper", "en": "Goalkeeping Coach" },
+    "certification": { "id": "Lisensi Kiper Level 1", "en": "Goalkeeping License Level 1" },
+    "specialization": { "id": "Teknik Kiper & Distribusi", "en": "Goalkeeping Technique & Distribution" },
+    "experience": 7,
+    "bio": {
+      "id": "Menangani sesi kiper seluruh kelompok usia, dari handling dasar sampai distribusi bola.",
+      "en": "Runs goalkeeping sessions across all age groups, from basic handling to distribution."
+    },
+    "photo": ""
+  },
+  {
+    "id": "coach-sinta",
+    "name": "Sinta Maharani",
+    "role": { "id": "Pelatih Fisik", "en": "Strength & Conditioning Coach" },
+    "certification": { "id": "Sertifikasi S&C Usia Muda", "en": "Youth S&C Certification" },
+    "specialization": { "id": "Kondisi Fisik & Pencegahan Cedera", "en": "Conditioning & Injury Prevention" },
+    "experience": 5,
+    "bio": {
+      "id": "Menyusun program fisik sesuai usia dan menangani protokol pemanasan serta pencegahan cedera.",
+      "en": "Builds age-appropriate physical programmes and manages warm-up and injury-prevention protocols."
+    },
+    "photo": ""
+  },
+  {
+    "id": "coach-gede",
+    "name": "Gede Ariawan",
+    "role": { "id": "Analis Pertandingan", "en": "Match Analyst" },
+    "certification": { "id": "Sertifikasi Analisis Performa", "en": "Performance Analysis Certification" },
+    "specialization": { "id": "Video Review & Statistik", "en": "Video Review & Statistics" },
+    "experience": 4,
+    "bio": {
+      "id": "Menyiapkan laporan pertandingan dan video review untuk tim kompetitif dan evaluasi individu pemain.",
+      "en": "Prepares match reports and video reviews for the competitive squads and individual player evaluations."
+    },
+    "photo": ""
+  }
+]

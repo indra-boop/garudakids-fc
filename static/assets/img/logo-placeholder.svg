@@ -1,0 +1,20 @@
+<!-- PLACEHOLDER ONLY. Replace with the official GarudaKids FC logo at assets/img/logo.png -->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 220" role="img" aria-label="GarudaKids FC">
+  <defs>
+    <linearGradient id="gk-gold" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#F0D488"/><stop offset="0.5" stop-color="#E0B54A"/><stop offset="1" stop-color="#A8791C"/>
+    </linearGradient>
+    <linearGradient id="gk-red" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#96182A"/><stop offset="1" stop-color="#5C0D17"/>
+    </linearGradient>
+  </defs>
+  <path d="M100 4 L192 34 v78c0 56-42 88-92 104C50 200 8 168 8 112V34Z" fill="#FFFFFF"/>
+  <path d="M100 16 L181 42v70c0 49-37 78-81 92-44-14-81-43-81-92V42Z" fill="url(#gk-red)"/>
+  <path d="M100 24 L173 47v65c0 45-34 72-73 85-39-13-73-40-73-85V47Z" fill="none" stroke="url(#gk-gold)" stroke-width="2.5" opacity="0.55"/>
+  <g fill="url(#gk-gold)">
+    <path d="M100 62c7 0 12 5 12 12 0 5-2 8-5 10l18 8-16 2 12 12-18-5 5 16-13-11-13 11 5-16-18 5 12-12-16-2 18-8c-3-2-5-5-5-10 0-7 5-12 12-12Z"/>
+    <path d="M42 92c14-6 30-6 42 2-14 1-26 5-34 12Z" opacity="0.9"/>
+    <path d="M158 92c-14-6-30-6-42 2 14 1 26 5 34 12Z" opacity="0.9"/>
+  </g>
+  <text x="100" y="172" text-anchor="middle" font-family="Barlow Condensed, Arial Narrow, sans-serif" font-size="22" font-weight="700" letter-spacing="2" fill="url(#gk-gold)">GARUDAKIDS</text>
+</svg>

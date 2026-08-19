@@ -1,0 +1,93 @@
+[
+  {
+    "slug": "u9",
+    "name": "GarudaKids U-9",
+    "ageGroup": "U-9",
+    "program": "grassroots",
+    "coach": "coach-rangga",
+    "description": {
+      "id": "Kelompok usia paling muda di akademi. Fokus pada pengenalan permainan, ball mastery, dan kesenangan bermain.",
+      "en": "The youngest group in the academy. Focused on introducing the game, ball mastery, and enjoyment."
+    },
+    "players": [
+      { "no": 1, "name": "Rafa A.", "position": { "id": "Kiper", "en": "Goalkeeper" } },
+      { "no": 4, "name": "Bimo S.", "position": { "id": "Bek", "en": "Defender" } },
+      { "no": 6, "name": "Kevin H.", "position": { "id": "Bek", "en": "Defender" } },
+      { "no": 8, "name": "Arkan D.", "position": { "id": "Gelandang", "en": "Midfielder" } },
+      { "no": 10, "name": "Yudha P.", "position": { "id": "Gelandang", "en": "Midfielder" } },
+      { "no": 11, "name": "Nathan R.", "position": { "id": "Penyerang", "en": "Forward" } },
+      { "no": 9, "name": "Devan K.", "position": { "id": "Penyerang", "en": "Forward" } }
+    ]
+  },
+  {
+    "slug": "u11",
+    "name": "GarudaKids U-11",
+    "ageGroup": "U-11",
+    "program": "development",
+    "coach": "coach-bayu",
+    "description": {
+      "id": "Awal tahap pembentukan. Pemain mulai mengenal peran posisi dan prinsip dasar menyerang–bertahan.",
+      "en": "The start of the forming stage. Players begin learning positional roles and basic attacking–defending principles."
+    },
+    "players": [
+      { "no": 1, "name": "Fajar M.", "position": { "id": "Kiper", "en": "Goalkeeper" } },
+      { "no": 2, "name": "Rizky N.", "position": { "id": "Bek Kanan", "en": "Right Back" } },
+      { "no": 3, "name": "Alvin T.", "position": { "id": "Bek Kiri", "en": "Left Back" } },
+      { "no": 5, "name": "Gilang W.", "position": { "id": "Bek Tengah", "en": "Centre Back" } },
+      { "no": 6, "name": "Reyhan A.", "position": { "id": "Gelandang Bertahan", "en": "Defensive Midfielder" } },
+      { "no": 8, "name": "Dafa L.", "position": { "id": "Gelandang", "en": "Midfielder" } },
+      { "no": 10, "name": "Bintang S.", "position": { "id": "Gelandang Serang", "en": "Attacking Midfielder" } },
+      { "no": 7, "name": "Elang P.", "position": { "id": "Sayap", "en": "Winger" } },
+      { "no": 9, "name": "Zaki F.", "position": { "id": "Penyerang", "en": "Forward" } }
+    ]
+  },
+  {
+    "slug": "u13",
+    "name": "GarudaKids U-13",
+    "ageGroup": "U-13",
+    "program": "development",
+    "coach": "coach-bayu",
+    "description": {
+      "id": "Beban teknik dan taktik meningkat. Pemain mulai rutin mengikuti pertandingan antar-akademi.",
+      "en": "Technical and tactical load increases. Players regularly feature in inter-academy fixtures."
+    },
+    "players": [
+      { "no": 1, "name": "Hafiz R.", "position": { "id": "Kiper", "en": "Goalkeeper" } },
+      { "no": 2, "name": "Naufal I.", "position": { "id": "Bek Kanan", "en": "Right Back" } },
+      { "no": 4, "name": "Satria B.", "position": { "id": "Bek Tengah", "en": "Centre Back" } },
+      { "no": 5, "name": "Wisnu A.", "position": { "id": "Bek Tengah", "en": "Centre Back" } },
+      { "no": 3, "name": "Ilham K.", "position": { "id": "Bek Kiri", "en": "Left Back" } },
+      { "no": 6, "name": "Raka D.", "position": { "id": "Gelandang Bertahan", "en": "Defensive Midfielder" } },
+      { "no": 8, "name": "Fauzan Y.", "position": { "id": "Gelandang", "en": "Midfielder" } },
+      { "no": 10, "name": "Aditya N.", "position": { "id": "Gelandang Serang", "en": "Attacking Midfielder" } },
+      { "no": 7, "name": "Bagas C.", "position": { "id": "Sayap Kanan", "en": "Right Winger" } },
+      { "no": 11, "name": "Sandi P.", "position": { "id": "Sayap Kiri", "en": "Left Winger" } },
+      { "no": 9, "name": "Farrel M.", "position": { "id": "Penyerang", "en": "Striker" } }
+    ]
+  },
+  {
+    "slug": "u15",
+    "name": "GarudaKids U-15",
+    "ageGroup": "U-15",
+    "program": "competitive",
+    "coach": "coach-arya",
+    "description": {
+      "id": "Tim kompetitif akademi. Mengikuti liga dan turnamen dengan persiapan lawan serta analisis pertandingan.",
+      "en": "The academy's competitive squad. Competes in leagues and tournaments with opponent preparation and match analysis."
+    },
+    "players": [
+      { "no": 1, "name": "Ivan S.", "position": { "id": "Kiper", "en": "Goalkeeper" } },
+      { "no": 12, "name": "Yoga T.", "position": { "id": "Kiper", "en": "Goalkeeper" } },
+      { "no": 2, "name": "Damar A.", "position": { "id": "Bek Kanan", "en": "Right Back" } },
+      { "no": 3, "name": "Rendra H.", "position": { "id": "Bek Kiri", "en": "Left Back" } },
+      { "no": 4, "name": "Panji L.", "position": { "id": "Bek Tengah", "en": "Centre Back" } },
+      { "no": 5, "name": "Galih W.", "position": { "id": "Bek Tengah", "en": "Centre Back" } },
+      { "no": 6, "name": "Tegar F.", "position": { "id": "Gelandang Bertahan", "en": "Defensive Midfielder" } },
+      { "no": 8, "name": "Alif R.", "position": { "id": "Gelandang", "en": "Midfielder" } },
+      { "no": 10, "name": "Rayhan G.", "position": { "id": "Gelandang Serang", "en": "Attacking Midfielder" } },
+      { "no": 7, "name": "Dhika N.", "position": { "id": "Sayap Kanan", "en": "Right Winger" } },
+      { "no": 11, "name": "Bara P.", "position": { "id": "Sayap Kiri", "en": "Left Winger" } },
+      { "no": 9, "name": "Surya M.", "position": { "id": "Penyerang", "en": "Striker" } }
+    ]
+  }
+]

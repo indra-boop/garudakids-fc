@@ -1,0 +1,71 @@
+[
+  {
+    "slug": "grassroots",
+    "name": "Grassroots",
+    "ageGroups": ["U-7", "U-9"],
+    "tagline": { "id": "Fondasi & Kecintaan pada Sepak Bola", "en": "Foundation & Love for the Game" },
+    "short": {
+      "id": "Untuk pemain pemula yang mempelajari keterampilan dasar sepak bola lewat permainan yang menyenangkan.",
+      "en": "For beginner-level young players learning fundamental football skills."
+    },
+    "description": {
+      "id": "Program pengenalan sepak bola untuk usia dini. Fokus pada penguasaan bola, koordinasi gerak, dan kesenangan bermain. Rasio pelatih–pemain dijaga kecil agar setiap anak mendapat perhatian.",
+      "en": "An introduction to football for the youngest ages. Focused on ball mastery, motor coordination, and enjoyment. Coach-to-player ratio is kept small so every child gets attention."
+    },
+    "focus": {
+      "id": ["Ball mastery & dribbling dasar", "Koordinasi, keseimbangan, kelincahan", "Passing & first touch", "Small-sided games (3v3 / 4v4)", "Pengenalan aturan & fair play"],
+      "en": ["Ball mastery & basic dribbling", "Coordination, balance, agility", "Passing & first touch", "Small-sided games (3v3 / 4v4)", "Introduction to rules & fair play"]
+    },
+    "sessionsPerWeek": 2,
+    "duration": { "id": "75 menit / sesi", "en": "75 minutes / session" },
+    "venue": "Lapangan Jogo Reso Kedungpeluk",
+    "headCoach": "coach-rangga",
+    "accent": "gold"
+  },
+  {
+    "slug": "development",
+    "name": "Development",
+    "ageGroups": ["U-11", "U-13"],
+    "tagline": { "id": "Teknik, Taktik & Kecerdasan Bermain", "en": "Technique, Tactics & Game Intelligence" },
+    "short": {
+      "id": "Pengembangan teknik, taktik, fisik, dan kecerdasan bermain secara terstruktur.",
+      "en": "Technical, tactical, physical, and game-intelligence development."
+    },
+    "description": {
+      "id": "Tahap pembentukan pemain. Materi latihan mulai masuk ke prinsip permainan: penguasaan posisi, pengambilan keputusan, transisi, dan pola serangan sederhana. Evaluasi individu dilakukan berkala.",
+      "en": "The player-forming stage. Sessions move into principles of play: positional understanding, decision making, transitions, and simple attacking patterns. Individual reviews are held periodically."
+    },
+    "focus": {
+      "id": ["Teknik lanjutan & kaki lemah", "Prinsip menyerang & bertahan", "Pemahaman posisi dan peran", "Pengambilan keputusan di bawah tekanan", "Kondisi fisik sesuai usia"],
+      "en": ["Advanced technique & weak foot", "Attacking & defending principles", "Positional roles and responsibilities", "Decision making under pressure", "Age-appropriate physical conditioning"]
+    },
+    "sessionsPerWeek": 3,
+    "duration": { "id": "90 menit / sesi", "en": "90 minutes / session" },
+    "venue": "Lapangan Jogo Reso Kedungpeluk",
+    "headCoach": "coach-bayu",
+    "accent": "red"
+  },
+  {
+    "slug": "competitive",
+    "name": "Competitive Team",
+    "ageGroups": ["U-15", "U-17"],
+    "tagline": { "id": "Siap Liga & Turnamen", "en": "League & Tournament Ready" },
+    "short": {
+      "id": "Pemain tingkat lanjut yang dipersiapkan untuk liga dan turnamen resmi.",
+      "en": "Advanced players preparing for leagues and tournaments."
+    },
+    "description": {
+      "id": "Tim inti akademi. Beban latihan lebih tinggi dengan periodisasi, analisis pertandingan, dan persiapan lawan. Pemain dinilai atas performa, sikap, dan kehadiran.",
+      "en": "The academy's core squads. Higher training load with periodisation, match analysis, and opponent preparation. Players are assessed on performance, attitude, and attendance."
+    },
+    "focus": {
+      "id": ["Periodisasi fisik & pencegahan cedera", "Analisis pertandingan & video review", "Set piece dan skenario pertandingan", "Kepemimpinan & mentalitas bertanding", "Jalur seleksi tim eksternal"],
+      "en": ["Physical periodisation & injury prevention", "Match analysis & video review", "Set pieces and match scenarios", "Leadership & competitive mentality", "Pathway to external trials"]
+    },
+    "sessionsPerWeek": 4,
+    "duration": { "id": "100 menit / sesi", "en": "100 minutes / session" },
+    "venue": "Lapangan Jogo Reso Kedungpeluk",
+    "headCoach": "coach-arya",
+    "accent": "dark"
+  }
+]
